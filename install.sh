@@ -4,6 +4,7 @@ _user=`whoami`
 
 mkdir /home/$_user/.snipkeys
 cp ./gui /home/$_user/.snipkeys/
+cp ./delete.png /home/$_user/.snipkeys/
 cp -r ./_internal /home/$_user/.snipkeys/
 cp ./snipkeys /home/$_user/.snipkeys/
 cp ./logo.png /home/$_user/.snipkeys/

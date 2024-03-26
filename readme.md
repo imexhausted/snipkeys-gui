@@ -8,9 +8,9 @@ Unfortunately there's no support for Wayland. <br>
 Because almost all shortcut apps are paid and they're chrome extensions. <br>
 - This app is free
 - Nice looking and clean (*well I think so*)
-- It's working across the system (*not only in browser*)  
+- It's working across the system (*not only in browser*)  <br>
 
-![demo](res/demo.png)
+![demo](res/demo.png) <br>
 
 ## Installation
 To install you need to run a few commands
@@ -33,9 +33,9 @@ This works in almost any desktop application which has a text field.
 ---
 
 ### Editing/Adding shortcuts
-To add a new shprtcut just click on `Add new`
+To add a new shprtcut just click on `Add new`<br>
 ![how to add new](res/addnew.png) <br>
-To edit a shortcut you can just click on `trigger` or `value` field and type anything you want.
+To edit a shortcut you can just click on `trigger` or `value` field and type anything you want.<br>
 ![how to edit](res/edit.png) <br>
 Also you need to know that SnipKeys doesnt support new lines `\n` and `=` for now. <br>
 Those symbols are just removed when you save shortcut.
@@ -44,7 +44,7 @@ Those symbols are just removed when you save shortcut.
 ---
 
 ### Delete a shortcut
-To delete a shortcut you need to click on trash bin.
+To delete a shortcut you need to click on trash bin.<br>
 ![how to delete](res/del.png)
 
 ---

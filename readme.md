@@ -75,7 +75,7 @@ To remove application run:
 ## Known bugs
 On some minor linux distros there could be a problem with X. <br>
 For example you may notice that when you use `Ubuntu Budgie` <br>
-`Start` button just has no any effect and shrtcuts just don't work at all. <br>
+`Start` button just has no any effect and shortcuts just don't work at all. <br>
 To quickly solve such a problem you can `sudo reboot` to reboot the system. <br>
 This will also restart X and SnipKeys will work just fine.
 
